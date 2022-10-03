@@ -1,0 +1,4 @@
+enum StatusRequest {
+  updated,
+  created,
+}
